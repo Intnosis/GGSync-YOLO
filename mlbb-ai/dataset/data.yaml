@@ -1,0 +1,8 @@
+path: C:/Users/mcrst/larvel/e-commerce/GGSync-YOLO/mlbb-ai/dataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+    0: hero
