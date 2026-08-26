@@ -21,8 +21,8 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 
-# MINMAP_ROI = {"x1":10, "y1": 460, "x2":300, "y2":730}
-# PLAYER_BAR_ROI = {"x1": 0, "y1": 0, "x2": 960, "y2":100}
+# MINMAP_ROI = {"x1":0, "y1": 434, "x2":353, "y2":743}
+# PLAYER_BAR_ROI = {"x1": 7, "y1": 0, "x2": 1333, "y2":156}
 
-# minimap_crop=frame[460:730, 10:300]
-# player_bar_crop=frame[0:100, 0:960]
+# minimap_crop=frame[434:743, 0:353]
+# player_bar_crop=frame[0:156, 0:1333]
