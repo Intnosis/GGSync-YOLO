@@ -15,5 +15,5 @@ player_bar_frame = frame[
     PLAYER_BAR_ROI["x1"]:PLAYER_BAR_ROI["x2"]
 ]
 
-cv2.imwrite("minimap_crop_test.png", minimap_frame)
-cv2.imwrite("player_crop_test.png",player_bar_frame)
+cv2.imwrite("crop/minimap_crop_test.png", minimap_frame)
+cv2.imwrite("crop/player_crop_test.png",player_bar_frame)
